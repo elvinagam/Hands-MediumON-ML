@@ -1,6 +1,6 @@
 # Hands-MediumON-ML
 Hands-on Medium Deep learning Applications in real-case, ex: Kaggle kernels
-
+Includes more advanced technics used in Machine Learning and the specific tools for large data wrangling and also faster analysis with TPU processing.
 # Medium ML Application from Models to Visualizations Technics
 Opensourced: Added Advanced visualization such as maps, and interactive dashboards, developed models on TPU, GPU, with 95+ accuracy
 ## Used Python Libraries
