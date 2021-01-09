@@ -16,6 +16,7 @@ Include:
 - Automated Machine Learning Applications
 - Advanced Feature Engineering
 - Explatory Data Analysis
+- Implementation of Famous Research papers
 
 ## Getting Started
 
