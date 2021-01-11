@@ -7,6 +7,7 @@ Opensourced: Added Advanced visualization such as maps, and interactive dashboar
 Include:
   Folium
   JSON
+  Tensorflow
   
 
 ## Features
