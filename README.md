@@ -18,7 +18,8 @@ Include:
 - Advanced Feature Engineering
 - Explatory Data Analysis
 - Implementation of Famous Research papers
-- Top Notebooks from Kaggle competitions
+- Top Ranked EDA, Modelling and Inference Notebooks from Kaggle competitions
+-
 
 ## Getting Started
 
