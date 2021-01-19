@@ -8,6 +8,7 @@ Include:
   Folium
   JSON
   Tensorflow
+  Pytorch
   
 
 ## Features
