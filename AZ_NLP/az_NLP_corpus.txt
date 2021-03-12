@@ -1,0 +1,7 @@
+https://ddi.itu.edu.tr/en/toolsandresources
+
+https://github.com/derintelligence/az-summarization
+
+https://github.com/aboSamoor/polyglot/blob/master/docs/MorphologicalAnalysis.rst
+
+https://github.com/raminrahimzada/az-corpus-nlp
